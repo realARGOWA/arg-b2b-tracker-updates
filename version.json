@@ -1,9 +1,16 @@
 {
-  "version": "4.1.1",
-  "minVersion": "4.1.1",
-  "releaseNotes": "Oturum kapanma ve güvenlik sorunları giderildi",
+  "version": "4.1.2",
+  "minVersion": "4.1.2",
+  "releaseNotes": "Bug Düzeltmeleri",
   "releasedAt": "2026-06-17",
   "history": [
+    {
+      "version": "4.1.2",
+      "date": "2026-06-17",
+      "notes": [
+        "Bug Düzeltmeleri"
+      ]
+    },
     {
       "version": "4.1.1",
       "date": "2026-06-17",
