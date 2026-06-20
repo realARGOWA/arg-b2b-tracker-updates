@@ -1,9 +1,16 @@
 {
-  "version": "4.1.3",
-  "minVersion": "4.1.3",
-  "releaseNotes": "Bug Düzeltmeleri",
-  "releasedAt": "2026-06-17",
+  "version": "4.1.4",
+  "minVersion": "4.1.4",
+  "releaseNotes": "Mesajlasma yenilendi: @etiketleme, duzenle/sil/yanitla, uye listesi\\nUrunlere barkod tanimlama ve okutarak secim\\nCalisan performansi ve karsilastirmali raporlar\\nYetki kisitlamalari + guvenlik ayarlari paneli\\nMasaustu: yeni pencere tasarimi ve bildirimler",
+  "releasedAt": "2026-06-20",
   "history": [
+    {
+      "version": "4.1.4",
+      "date": "2026-06-20",
+      "notes": [
+        "Mesajlasma yenilendi: @etiketleme, duzenle/sil/yanitla, uye listesi\\nUrunlere barkod tanimlama ve okutarak secim\\nCalisan performansi ve karsilastirmali raporlar\\nYetki kisitlamalari + guvenlik ayarlari paneli\\nMasaustu: yeni pencere tasarimi ve bildirimler"
+      ]
+    },
     {
       "version": "4.1.3",
       "date": "2026-06-17",
